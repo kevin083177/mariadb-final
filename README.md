@@ -211,7 +211,7 @@
     GROUP BY p.patient_id;
     ```
 ### Trigger
-[觸發器連結創建](https://github.com/kevin083177/mariadb-final/blob/main/create_trigger.sql)
+[創建觸發器連結](https://github.com/kevin083177/mariadb-final/blob/main/create_trigger.sql)
 
 ### Event
 * 將逾時掛號自動修改狀態為"已逾時"
