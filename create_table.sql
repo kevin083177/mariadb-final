@@ -9,7 +9,6 @@ CREATE TABLE doctor (
     gender ENUM('M', 'F') NOT NULL,
     phone VARCHAR(10),
     email VARCHAR(50),
-    specialty VARCHAR(100),
     hire_date DATE NOT NULL
 ) ENGINE=InnoDB;
 
